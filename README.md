@@ -1,2 +1,2 @@
 # NuemontProjects
-Coding projects and other wise for Neumont College of Computer Science.
+Coding projects and otherwise for Neumont College of Computer Science.
