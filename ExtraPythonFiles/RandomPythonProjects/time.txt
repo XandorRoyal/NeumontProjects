@@ -1,0 +1,16 @@
+Watch: 1. Introduction to Virtualization -> Overview of virtualization (2m 33s)
+
+https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-virtualization%3Ftrk%3Dshare_ent_url&account=85000002Links to an external site. 
+Watch: 1. Introduction to Virtualization -> Understanding different types of hypervisors (1m 51s)
+
+https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-virtualization%3Ftrk%3Dshare_ent_url&account=85000002Links to an external site. 
+Watch: 2. Virtualization Advantages -> Using virtualization for more efficient utilization of hardware (4m 28s)
+
+https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-virtualization%3Ftrk%3Dshare_ent_url&account=85000002Links to an external site. 
+Watch: 3. Virtualization Disadvantages -> Increased complexity (3m 25s)
+
+https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-virtualization%3Ftrk%3Dshare_ent_url&account=85000002Links to an external site. 
+Watch: 4. Common Uses of Virtualization -> Setting up test and development environments (3m 48s)
+
+https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-virtualization%3Ftrk%3Dshare_ent_url&account=85000002Links to an external site. 
+Watch: 5. Hardware -> Understanding virtual networking (29s)
